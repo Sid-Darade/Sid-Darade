@@ -1,5 +1,4 @@
-[![MasterHead](https://github.com/Sid-Darade/Sid-Darade/assets/128823616/de85d657-3174-4e13-b528-62e0ea62f583
-)]
+[![MasterHead](https://github.com/Sid-Darade/Sid-Darade/assets/128823616/de85d657-3174-4e13-b528-62e0ea62f583)]
 <h1 align="center">Hi 👋, I'm Siddhesh Darade</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Sid-Darade/Sid-Darade/assets/128823616/afe7ccaf-2907-48ab-a905-46ccff4ef970">
